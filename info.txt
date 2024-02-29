@@ -1,0 +1,8 @@
+Ad Soyad: Ege Akkaya
+Okul: Marmara Üniversitesi - Ekonometri
+Yaş: 22
+Swift Bilgisi: Temel Düzey
+Bildiği Başka Dil: C#, HTML-CSS, Angular
+Email: egeakkaya79@hotmail.com
+Linkedin: https://www.linkedin.com/in/ege-akkaya-b2a848173/
+
